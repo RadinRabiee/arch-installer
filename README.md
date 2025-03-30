@@ -1,4 +1,5 @@
 # Arch Linux Installer Assistant
+#(For a production-ready Arch installation, please use the official Archinstall tool. This project serves as a demonstrative implementation showcasing skills in Linux system administration and automation.)
 
 An automated installation assistant for Arch Linux that guides users through the installation process with sensible defaults and customization options.
 
